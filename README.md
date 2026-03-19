@@ -8,17 +8,16 @@
 </p> 
 
 <p align="left">
-    <a href="https://x.com/ibrockdev" target="_blank">
-        <img src="https://img.shields.io/badge/ibrockdev-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="@ibrockdev" />
+    <a href="https://x.com/SoyBrockYT" target="_blank">
+        <img src="https://img.shields.io/badge/SoyBrockYT-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="@SoyBrockYT" />
     </a>
     <a href="https://discordapp.com/users/1144023568431186052" target="_blank">
-        <img src="https://img.shields.io/badge/ibrockdev-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="ibrockdev" />
+        <img src="https://img.shields.io/badge/brockdev.org-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="brockdev.org" />
     </a>
 </p>
 
-- 🧰 Trabajando dura en **KronelGuard** un Bot de Discord.
-- 👨‍💻 Todos mis proyectos publicos están disponibles en **[Repositories](https://github.com/soybrockdev?tab=repositories)**,
-- 📦 Owner of **[Sector X](https://discord.gg/kaamnUFMBA)**.
+- 🧰 Trabajando duro en **KronelGuard** un Bot de Discord.
+- 👨‍💻 Todos mis proyectos publicos están disponibles en **[Repositories](https://github.com/soybrockdev?tab=repositories)**
 
 ---
 
