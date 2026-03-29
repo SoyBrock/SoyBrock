@@ -17,7 +17,7 @@
 </p>
 
 - 🧰 Trabajando duro en **KronelGuard** un Bot de Discord.
-- 👨‍💻 Todos mis proyectos publicos están disponibles en **[Repositories](https://github.com/soybrockdev?tab=repositories)**
+- 👨‍💻 Todos mis proyectos publicos están disponibles en **[Repositories](https://github.com/SoyBrock?tab=repositories)**
 
 ---
 
