@@ -34,11 +34,16 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📈 Actividad Reciente
 
 <p align="center">
-<a href="https://github.com/SoyBrock"><img src="https://github-readme-stats.vercel.app/api?username=SoyBrock&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Estadísticas de SoyBrock" height="150" /></a>
-<a href="https://github.com/SoyBrock"><img src="https://github-readme-streak-stats.herokuapp.com?user=SoyBrock&theme=tokyonight&hide_border=true" alt="Racha de SoyBrock" height="150" /></a>
-<br/>
+<a href="https://github.com/SoyBrock"><img src="https://github-readme-activity-graph.vercel.app/graph?username=SoyBrock&theme=tokyonight" alt="Gráfico de Actividad de SoyBrock" /></a>
+</p>
+
+---
+
+### 📊 Lenguajes Principales
+
+<p align="center">
 <a href="https://github.com/SoyBrock"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoyBrock&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Lenguajes Top" /></a>
 </p>
