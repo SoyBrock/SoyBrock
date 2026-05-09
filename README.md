@@ -31,19 +31,3 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="git"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/></a>
 </p>
-
----
-
-### 📈 Actividad Reciente
-
-<p align="center">
-<a href="https://github.com/SoyBrock"><img src="https://github-readme-activity-graph.vercel.app/graph?username=SoyBrock&theme=tokyonight" alt="Gráfico de Actividad de SoyBrock" /></a>
-</p>
-
----
-
-### 📊 Lenguajes Principales
-
-<p align="center">
-<a href="https://github.com/SoyBrock"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoyBrock&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Lenguajes Top" /></a>
-</p>
